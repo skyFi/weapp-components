@@ -1,5 +1,15 @@
 # Weapp-Components
 
+# 项目搬家到： https://github.com/kiruya/minidesign
+# Project moved to: https://github.com/kiruya/minidesign
+
+
+
+
+
+
+
+
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FskyFi%2Fweapp-components.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FskyFi%2Fweapp-components?ref=badge_shield)
 
 ## Todolist
